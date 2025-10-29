@@ -1,0 +1,6 @@
+<?php
+// API Key Configuration
+// Store your secret API key from data.gov.in here.
+// This key is from your original .env file
+    define('GOV_API_KEY', 'API_KEY_PEAST_HERE');
+?>
