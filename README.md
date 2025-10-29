@@ -1,4 +1,4 @@
-# Our Voice, Our Rights (આપણો અવાજ, આપણા અધિકાર)
+<img width="1755" height="2550" alt="image" src="https://github.com/user-attachments/assets/15dc2cf7-71bb-49a7-8e9a-6df98db6f362" /># Our Voice, Our Rights (આપણો અવાજ, આપણા અધિકાર)
 ### MGNREGA Performance Dashboard
 
 "Our Voice, Our Rights" is a simple, accessible web application that transforms complex government data from the MGNREGA program into an easy-to-understand dashboard. It is designed for rural citizens in India, especially those with low data literacy, by providing performance metrics, simple ratings, and audio readouts in their local language (Gujarati).
@@ -7,7 +7,7 @@ This project was built to solve the problem that official government APIs (like 
 
 ## 🚀 Live Demo
 
-> [Link to your hosted web app here]
+> our-voice-our-rights.great-site.net
 
 ## ✨ Features
 
@@ -36,8 +36,8 @@ Here’s how to set up the project on your local machine.
 
 ### 1. Clone the Repository
 ```sh
-git clone [your-repo-url]
-cd [your-project-folder]
+git clone https://github.com/khatriharsh08/our-voice-our-rights.git
+cd our-voice-our-rights
 ````
 
 ### 2\. Set Up the Database
